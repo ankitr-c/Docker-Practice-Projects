@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmfhvq848aYbpPA2MpaFtTt4DYXi6973+KZzUuKcHHI4uN2BL2sY5u9tjnNRy+pOW8dYDKHz09qrrlwtqY5e+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Coditas\\Desktop\\Projects\\csharp-webapp\\csharp-webapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coditas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Coditas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Coditas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Coditas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
