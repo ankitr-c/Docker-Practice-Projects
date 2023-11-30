@@ -19,4 +19,5 @@ EXPOSE 5000
 
 # Start the application
 ENTRYPOINT ["dotnet", "csharp-webapp.dll"]
+# CMD ["dotnet","csharp-webapp.dll"]
 

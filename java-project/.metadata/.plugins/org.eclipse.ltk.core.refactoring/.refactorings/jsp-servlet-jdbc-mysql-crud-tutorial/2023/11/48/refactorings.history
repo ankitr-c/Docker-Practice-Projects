@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;jsp-servlet-jdbc-mysql-crud-tutorial/src/main/webapp/NewFile.jsp&apos; to &apos;user-form.jsp&apos;" description="Rename resource &apos;NewFile.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/NewFile.jsp" name="user-form.jsp" stamp="1701153119624" updateReferences="true"/>
-</session>
